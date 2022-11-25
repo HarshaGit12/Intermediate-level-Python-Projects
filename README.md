@@ -1,3 +1,3 @@
 # Small Python Projects
-## 1. Email_Slicing using python
+## 1. Email Slicing using Python
 ## 2. Creating Random Password Generator using Python
