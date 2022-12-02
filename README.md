@@ -1,3 +1,4 @@
 # Intermediate level Python Projects
-## 1. Email Slicing using Python
-## 2. Creating Random Password Generator using Python
+## Simple Desktop Notifier using plyer package
+## Email Slicing using Python
+## Creating Random Password Generator using Python
